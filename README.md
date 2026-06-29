@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="zen-eco-agent" width="880"></p>
+
 # Zen Eco 4B Agent
 
 Tool-calling and function execution model. Part of the Zen Eco family.
